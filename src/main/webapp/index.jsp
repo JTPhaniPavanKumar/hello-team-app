@@ -30,6 +30,7 @@
 <body>
     <div class="container">
         <h1>hello team</h1>
+        <p style="margin-top: 15px; opacity: 0.8;">Deployed via CI/CD</p>
     </div>
 </body>
 </html>
